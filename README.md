@@ -11,7 +11,7 @@ Django Rest Framework:
 ![image](https://user-images.githubusercontent.com/104043012/179402797-96ccd942-8a72-430b-aea9-9b977696b1cc.png)
 
 
-Por padrao o Django Rest Framework já cria todos os méthodos HTTP, se eu quiser usar o DELETE por exempro, para
+Por padrao o Django Rest Framework já cria todos os méthodos HTTP, se eu quiser usar o DELETE por exemplo, para
 escluir qualquer livro, é só colocar o ID desse livro e ficará disponível a opção DELETE:
 
 ![image](https://user-images.githubusercontent.com/104043012/179402820-b8732c3c-db00-4e0b-85df-11463bdbf9ce.png)
